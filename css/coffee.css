@@ -1,0 +1,16 @@
+h2{
+    color: rgb(182, 148, 228)
+}
+
+#p1{
+    background-color: yellow;
+}
+
+#p2{
+    font-family: 바탕체;
+    line-height: 2;
+}
+
+.coffee{
+    font-weight: 600;
+}
